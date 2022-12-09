@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Hicham Calculator</string>
+    <string name="menu_Open">Open</string>
+    <string name="menu_Close">Close</string>
+
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tg</string>
+    <string name="trigArcSinText">s<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">c<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">t<sup><small>-1</small></sup></string>
+    <string name="piText">pi</string>
+    <string name="logText">log</string>
+    <string name="expoText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="modulo">%</string>
+    <string name="valeurAbsolue">|x|</string>
+    <string name="divisionParUn">1/x</string>
+    <string name="afterConversion">Apres conversion</string>
+    <string name="selectionnerPays">Selectionnez un pays</string>
+
+    <!-- convertor -->
+    <string name="Amount">Amount to convert</string>
+    <string name="Convert">Convert</string>
+
+    <!-- About-->
+    <string name="aboutText">
+        This is an android application which contains the most useful futures like a calculator, also some interesting conversion futures.
+    </string>
+
+
+    <string name="about"><u>About</u></string>
+</resources>
